@@ -17,20 +17,26 @@ const App = () => {
     {
       title: "Brain MRI Segmentation Using U-Net and SegNet: A Comparative Study Across Modalities with Robust Loss Functions",
       venue: "12th International Conference on Bioimaging (BIOIMAGING 2025)",
-      status: "Best Paper Candidate",
+      status: "Published: Nominated for Best Paper Award",
       year: "2025"
     },
     {
       title: "Softmax-Weighted Pseudo-Label Refinement for Enhancing Robustness to Label Noise",
-      venue: "Medical Imaging with Deep Learning (MIDL 2025)",
+      venue: "IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2025)",
       status: "Under Review",
       year: "2025"
     },
     {
-      title: "Uncertainty-Aware Out-of-Distribution Detection in Medical Imaging Using Gaussian Mixture Models and Test-Time Augmentation",
-      venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)",
+      title: "Weight Entropy-Maximised Evidential Metamodel for Post-Hoc Uncertainty Quantification",
+      venue: "40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)",
       status: "Under Review",
-      year: "2025"
+      year: "2026"
+    },
+    {
+      title: "Bench-marking Uncertainty Decomposition in Medical Imaging: A Unified Framework using Test-Time Augmentation and Latent GMMs",
+      venue: "40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)",
+      status: "Under Review",
+      year: "2026"
     },
     {
       title: "Multi-Modal Information Fusion for Classification of Kidney Abnormalities",
